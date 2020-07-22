@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: pink;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+#inputCurrentFrequency {
+  width: 100px;
+  margin: 0 0 10px 0;
+}
+
+#rangeFrequencies {
+  width: 300px;
+  margin: 0 0 15px 0;
+}
+
+img {
+  border-radius: 50%;
+}
+
+#divPodcast {
+  font-style: italic;
+  font-weight: bold;
+}
